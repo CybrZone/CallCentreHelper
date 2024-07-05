@@ -2,7 +2,7 @@ import time
 # NOTE: This requires python 3 and the twilio library to be installed (pip install twilio)
 from twilio.rest import Client
 
-#replcae with ur account SID and auth
+#replace with ur account SID and auth
 accountSid = "AC76489473c25a023b2704b7323b4ba6ad02" 
 authtoken = "cc862f93fd99acfaed09f08a249db6bc1"
 
